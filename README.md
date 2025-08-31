@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm interested in Robotics, I'm working on homework, and my favorite hobby is playing volleyball.
 <!--
 **apham27-code/apham27-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
